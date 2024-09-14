@@ -4,6 +4,12 @@ Un humilde rincón con notas sobre cosas que me interesan y quiero compartir con
 
 Pensado como una especie de jardín digital / blog personal no lineal, libre de dependencias de software privativos y otras ataduras.
 
+## Indice
+Lista de notas que pueden ser interesantes:
+
+- ### [Sin-Gluten](Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
+
+
 ## Cómo navegar
 Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes notas o directorios/carpetas que puedas ver interesantes.
 
