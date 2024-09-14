@@ -47,3 +47,7 @@
 
 ## Valle de Lecrin
 - Restaurante Los Naranjos
+
+___
+Orígenes de datos:
+- Listado manual conjunto de la Comunidad de Whatsapp Celiacos de España > Celiacos de Granada
