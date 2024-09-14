@@ -8,7 +8,7 @@ ___
 1. Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
 2. Ajo negro acreditado por la asociación APECEJA.
 3. Pelayu acreditado por la asociación Apeceja. 
-4. Obradores acreditados por la asociación: Panecelli exclusivo 100% sin gluten y la Panadería.
+4. Obradores acreditados por la asociación: El Escondite, Panecelli exclusivo 100% sin gluten y la Panadería.
 5. ⁠D’egustar by Leticia Navarro, acreditado por la asociación. 
 5. La Marisquería
 6. Almirez.
