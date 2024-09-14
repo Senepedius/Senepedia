@@ -1,4 +1,4 @@
-# Jaén
+# Jaén Sin Gluten
 #SinGluten #EnfermedadCeliaca #Celiaquia
 
 Fecha actualización Junio-2024

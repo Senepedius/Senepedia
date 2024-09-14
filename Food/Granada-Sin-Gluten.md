@@ -1,4 +1,6 @@
 # GRANADA Sin Gluten
+#SinGluten #EnfermedadCeliaca #Celiaquia 
+
 - Rest La Tana (chiquitito y de pie)
 - Rest Aparicio (en  Martinez Campos)
 - Rest La botillería 
@@ -12,36 +14,36 @@
 * Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
 * Cafetería Igra (plaza Gracia en el centro)
 
-*ALMUÑECAR.*
--Restaurante Botos en paseo de San un Cristobal
--Chiringuito deportivo enfrente de aquatropip
--Restaurante  Mar de plata
--Pizzería Pinocho
+## ALMUÑECAR
+- Restaurante Botos en paseo de San un Cristobal
+- Chiringuito deportivo enfrente de aquatropip
+- Restaurante  Mar de plata
+- Pizzería Pinocho
 - Restaurante Ana María en paseo San Cristóbal
--El cortijillo en Paseo de San Cristóbal
--Pasteleria Jamaica
--Heladeria Daniel
--Cafe la Italiana
--La Cabaña
--Rest.La Tralla
+- El cortijillo en Paseo de San Cristóbal
+- Pasteleria Jamaica
+- Heladeria Daniel
+- Cafe la Italiana
+- La Cabaña
+- Rest.La Tralla
 - " Mar de Plata
-*Armilla*
+## Armilla
 - Cafetería bar Camino bajo del Monge (pescaito)
 *Centro comercial Nevada*
 - Pizz Gondoliere
 - El tacon flamenco, Jorge
 
-*Salobreña*
+## Salobreña
 - Rest El peñón
 
-*Herradura*
+## Herradura
 - Rest Terra mar
 - Rest La Barrica
 - Rest Arenas
 - Rest MarDela 
 
-*Playa de Calahonda*
+## Playa de Calahonda
  - Resta El quinteto 
 
-*Valle de Lecrin*:
+## Valle de Lecrin
 - Restaurante Los Naranjos
