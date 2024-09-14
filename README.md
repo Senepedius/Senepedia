@@ -7,7 +7,7 @@ Pensado como una especie de jardín digital / blog personal no lineal, libre de 
 ## Indice
 Lista de notas que pueden ser interesantes:
 
-- ### [Sin-Gluten](Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
+- ### [Sin-Gluten](./Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
 
 
 ## Cómo navegar

@@ -16,7 +16,7 @@ Intento mantener en este mapa todos los sitios que se incluyen en las listas que
 
 El mapa no es mío, no lo cree yo, pero sus datos son tuyos y de todos, así que si quieres ayudar, puedes.
 ## Restaurantes y lugares sin gluten
-### [Almería](Almeria-Sin-Gluten.md)
-### [Jaén](Jaen-Sin-Gluten.md)
-### [Málaga](Malaga-Sin-Gluten.md)
-### [Granada](Granada-Sin-Gluten.md)
+### [Almería](./Almeria-Sin-Gluten.md)
+### [Jaén](./Jaen-Sin-Gluten.md)
+### [Málaga](./Malaga-Sin-Gluten.md)
+### [Granada](./Granada-Sin-Gluten.md)
