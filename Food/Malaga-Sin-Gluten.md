@@ -2,7 +2,7 @@
 
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
 ## MÁLAGA Capital
-- Rest Laplancha (La Plancha esta en Heroes de Sostoa, en la acera del Vialia saliendo por donde esta el tren, pasando el Hotel q hsy un poco mas adelante, frente al antiguo oulet del corte inglés)
+- Rest La Plancha (La Plancha esta en Heroes de Sostoa, en la acera del Vialia saliendo por donde esta el tren, pasando el Hotel q hay un poco mas adelante, frente al antiguo outlet del corte inglés)
 - Rest El Salguero (Huelin)
 - Rest El Citron
 - Rest La Dehesa (croquetas...) bocacalle calle Larios
@@ -34,7 +34,6 @@
 - En el soho, calle Martínez Campos 
 - Rest Maldonado21. Calle Martínez Maldonado
 - Rest La Marina (Alameda ppal)
-- DESAYUNAR:
 - Caf Café Central
 - Cafetería de la Mota (calle mármoles)
 - La bella Julieta
