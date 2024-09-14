@@ -3,7 +3,7 @@
 
 Fecha actualización Junio-2024
 ___
-![Header-Sin-Gluten](./Header-Sin-Gluten.md)
+![Header-Sin-Gluten](Header-Sin-Gluten.md)
 ## Jaén (capital)
 1. Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
 2. Ajo negro acreditado por la asociación APECEJA.
