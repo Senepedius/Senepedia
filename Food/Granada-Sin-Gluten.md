@@ -1,6 +1,9 @@
 # GRANADA Sin Gluten
 #SinGluten #EnfermedadCeliaca #Celiaquia 
 
+**Mapa gratuito**: https://mapcomplete.org/glutenfree
+
+## Granada Capital
 - Rest La Tana (chiquitito y de pie)
 - Rest Aparicio (en  Martinez Campos)
 - Rest La botillería 

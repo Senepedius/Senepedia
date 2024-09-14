@@ -4,7 +4,7 @@
 Fecha actualización Junio-2024
 ___
 **Mapa gratuito**: https://mapcomplete.org/glutenfree
-## Jaén (capital)
+## Jaén capital
 1. Escondite *100% sin gluten* acreditado por la asociación Apeceja. 
 2. Ajo negro acreditado por la asociación APECEJA.
 3. Pelayu acreditado por la asociación Apeceja. 
