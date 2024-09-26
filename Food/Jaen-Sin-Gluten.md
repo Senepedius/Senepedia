@@ -59,7 +59,8 @@ ___
 2. ⁠Hotel Restaurante Twist
 3. Salones María Luisa
 4. Cachorro
-5. Bar Patín 
+5. Bar Patín
+6. Rest Bar Regina
 
 ## MARTOS
 1. Oro negro. Para desayunar.
