@@ -9,13 +9,15 @@
 - Rest La botillería 
 - El quinteto en (Calahonda)
 - La cuchara de Carmela
-- El pescaito de Carmela
-* La nonna Carmela
+- El pescaito de Carmela (Carta 100% sin gluten)
+* La nonna Carmela (Carta 100% sin gluten)
+* La Piccola Carmela (Muchas opciones sin gluten)
 * Rue de la Crepe
 * Mercedes isla (pastelería, cafetería)
 * La Gran Taberna
 * Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
 * Cafetería Igra (plaza Gracia en el centro)
+* Restaurante Aparicio's (Carta 100% sin gluten)
 
 ## ALMUÑECAR
 - Restaurante Botos en paseo de San un Cristobal
