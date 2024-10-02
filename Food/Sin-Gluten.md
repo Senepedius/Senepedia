@@ -4,6 +4,12 @@ Notas con recursos sin gluten.
 
 Si hay algún recurso o lugar en los listados que creas que no debería estar o que falta por añadir, puedes enviarme un email a Senepedius@proton.me
 
+## Indice
+- [Mapa sin gluten (mundial)](#Mapa%20sin%20gluten%20(mundial))
+- [[Enlaces-sin-gluten](Enlaces-sin-gluten.md)](#[Enlaces-sin-gluten](Enlaces-sin-gluten.md))
+- [Restaurantes y lugares sin gluten](#Restaurantes%20y%20lugares%20sin%20gluten)
+
+
 ## Mapa sin gluten (mundial)
 
 ![MapComplete-GlutenFree](attachments/MapComplete-GlutenFree.png)
@@ -15,8 +21,13 @@ En este mapa puedes **ver (e incluso añadir)** los diferentes lugares sin glute
 Intento mantener en este mapa todos los sitios que se incluyen en las listas que encontrarás en esta web. 
 
 El mapa no es mío, no lo cree yo, pero sus datos son tuyos y de todos, así que si quieres ayudar, puedes.
+
+## [Enlaces-sin-gluten](Enlaces-sin-gluten.md)
+Recopilación de webs o recursos que pueden interesarte.
 ## Restaurantes y lugares sin gluten
+Listados de lugares, principalmente cafeterías y restaurantes sin gluten, agrupados por ciudad
 ### [Almería](./Almeria-Sin-Gluten.md)
 ### [Jaén](./Jaen-Sin-Gluten.md)
 ### [Málaga](./Malaga-Sin-Gluten.md)
 ### [Granada](./Granada-Sin-Gluten.md)
+
