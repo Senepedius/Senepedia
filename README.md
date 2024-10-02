@@ -7,8 +7,8 @@ Pensado como una especie de jardín digital / blog personal no lineal, libre de 
 ## Indice
 Lista de notas que pueden ser interesantes:
 
-- ### [Sin-Gluten](./Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
-
+- [Sin-Gluten](./Food/Sin-Gluten.md) Serie de notas sobre lugares o recursos libres para celíacos o intolerantes al gluten.
+- [Awesome Privacy Android Apps (202408251217)](Software/Android/Awesome%20Privacy%20Android%20Apps%20(202408251217).md) (Inglés) Aplicaciones para Android que he usado personalmente enfocadas en privacidad y la soberanía de tus datos.
 
 ## Cómo navegar
 Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes notas o directorios/carpetas que puedas ver interesantes.
