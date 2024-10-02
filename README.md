@@ -19,7 +19,7 @@ Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes nota
 
 > Las notas pueden estar en Inglés o Español, según tenga el día. 
 
-Si tienes cualquier problema puedes contactar conmigo de forma segura a través de mi correo de Proton:
+Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo de Proton:
 
 Senepedius@proton.me
 
