@@ -5,7 +5,7 @@
 
 ## Granada Capital
 - Rest La Tana (chiquitito y de pie)
-- Rest Aparicio (en  Martinez Campos)
+- Restaurante Aparicio's (Carta 100% sin gluten)
 - Rest La botillería 
 - El quinteto en (Calahonda)
 - La cuchara de Carmela
@@ -17,7 +17,6 @@
 * La Gran Taberna
 * Pizzería tradizione italiana solo findes y festivos (hacen reparto a domicilio)
 * Cafetería Igra (plaza Gracia en el centro)
-* Restaurante Aparicio's (Carta 100% sin gluten)
 
 ## ALMUÑECAR
 - Restaurante Botos en paseo de San un Cristobal
