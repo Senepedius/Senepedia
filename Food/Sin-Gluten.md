@@ -6,7 +6,7 @@ Si hay algún recurso o lugar en los listados que creas que no debería estar o 
 
 Indice
 - [Mapa sin gluten (mundial)](#Mapa%20sin%20gluten%20(mundial))
-- [[Enlaces-sin-gluten](Enlaces-sin-gluten.md)](#[Enlaces-sin-gluten](Enlaces-sin-gluten.md))
+- [Recursos sin gluten](#Recursos%20sin%20gluten)
 - [Restaurantes y lugares sin gluten](#Restaurantes%20y%20lugares%20sin%20gluten)
 ## Mapa sin gluten (mundial)
 
