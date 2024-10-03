@@ -17,11 +17,9 @@ Si no tienes un destino claro, puedes ir pinchando arriba en las diferentes nota
 - Como una nota puede en realidad estar relacionada con más de un tema, la gran mayoría contará con un listado de tags, justo al pié del título, con el que podrás buscar otras notas relacionadas.
 - Cada nota tiene un código identificador único parecido a este 202408311512
 
-> Las notas pueden estar en Inglés o Español, no me hago responsable de la calidad de lo escrito. Esto es un dump de lo que pasa por mi cabeza o de cosas que he encontrado y quiero anotar para mí y para los míos.
+> Las notas pueden estar en Inglés o Español, según tenga el día. 
 
-Si tienes cualquier problema o queja con lo que has encontrado, puedes pulsar las teclas Alt + F4 para dejarme tu opinión.
-
-Si tienes opiniones formadas y quieres dialogar puedes hacerlo conmigo de forma segura a través de mi correo de Proton:
+Si tienes cualquier problema o sugerencia puedes contactar conmigo de forma segura a través de mi correo de Proton:
 
 Senepedius@proton.me
 
