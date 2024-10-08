@@ -2,7 +2,7 @@
 # Lecturas Recomendadas
 #enlaces #libros #recursos #CodigoLimpio #ArtesaniaSoftware
 
-Libros y recursos que a mi parecer, pueden ayudarte (mucho) en tu viaje de **mejora de tu código** y la comprensión de **ideas base**, trasversales, en el ámbito de la programación. Generalmente de forma agnóstica (sin in importar qué lenguaje de programación o qué sistemas utilices). 
+Libros y recursos que a mi parecer, pueden ayudarte (mucho) en tu viaje de **mejora de tu código** y la comprensión de **ideas base**, trasversales, en el ámbito de la programación. Generalmente de forma agnóstica (sin importar qué lenguaje de programación o qué sistemas utilices). 
 
 Son los libros que me habría gustado que me hicieran leer cuando empecé a programar.
 ## Libros
