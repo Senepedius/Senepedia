@@ -2,9 +2,9 @@
 
 Notas con recursos sin gluten. 
 
-Si hay algún recurso o lugar en los listados que creas que no debería estar o que falta por añadir, puedes enviarme un email a Senepedius@proton.me
+> Si hay algún recurso o lugar en los listados que creas que no debería estar o que falta por añadir, puedes enviarme un email a Senepedius@proton.me
 
-Indice
+## Indice
 - [Mapa sin gluten (mundial)](#Mapa%20sin%20gluten%20(mundial))
 - [Recursos sin gluten](#Recursos%20sin%20gluten)
 - [Restaurantes y lugares sin gluten](#Restaurantes%20y%20lugares%20sin%20gluten)
